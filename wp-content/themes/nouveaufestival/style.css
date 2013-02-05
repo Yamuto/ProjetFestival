@@ -1,0 +1,184 @@
+/*
+Theme Name: nouveaufestival
+Theme URI: http://LGBT.com/
+Description: Thême enfant
+Author: CORNET Rémi
+Author URI: mailto:rpe.cornet@gmail.com
+Template: twentytwelve
+Version: 0.5.9
+*/
+
+@import url("../twentytwelve/style.css");
+
+#text-2 {
+	background-color: #8FD8D8;
+	padding: 10px !important;
+	border-radius: 8px;
+	border: 2px solid #245E5E;
+}
+
+.widget-title {
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 12pt;
+}
+.archive-header {
+	display: none;
+}
+
+#post-11 {
+	background-color: #8FD8D8;
+	padding: 20px !important;
+	border-radius: 8px;
+	border: 2px solid #245E5E;
+	width: 650px !important;
+}
+
+body div div section div article {
+	background-color: #8FD8D8;
+	padding: 20px !important;
+	border-radius: 8px;
+	border: 2px solid #245E5E;
+	width: 650px !important;
+}
+
+body div div div div article {
+	background-color: #8FD8D8;
+	padding: 20px !important;
+	border-radius: 8px;
+	border: 2px solid #245E5E;
+	width: 650px !important;
+}
+
+#respond {
+	background-color: #8FD8D8;
+	padding: 20px !important;
+	border-radius: 8px;
+	border: 2px solid #245E5E;
+	width: 650px !important;
+}
+
+body div#page {
+	background: none;
+	opacity: 1;
+}
+
+body div header hgroup {
+	border: 2px #BA99B4 solid;
+	border-radius: 8px;
+	padding: 20px;
+	background-color: white !important;
+}
+
+body div footer#colophon {
+	border: 2px pink solid;
+	border-radius: 8px;
+	background-color: #BA99B4;
+	padding: 20px;
+}
+
+nav#site-navigation {
+	margin-top: -50px !important;
+	margin-left: 70px !important;
+}
+
+body div header div ul {
+	border: none !important;
+	margin-left: 20px !important;
+}
+body div header div ul li {
+	margin-right: 0 !important;
+}
+
+body div header div ul li a {
+	width: 90px;
+	margin: 0;
+	padding: 0 30px 0 30px;
+
+}
+
+.multicolor0 a {
+	color: #DC01FE !important;
+	background-color: #5084FE !important;
+	border-bottom-left-radius: 15px;
+	border-top-left-radius: 15px;
+}
+.multicolor1 a {
+	color: #DC01FE !important;
+	background-color: #E95FFE;
+	border-bottom-left-radius: 15px;
+	border-top-left-radius: 15px;
+}
+.multicolor2 a {
+	color: #FE7F01 !important;
+	background-color: #FEB265;
+}
+.multicolor3 a {
+	color: #FE0101 !important;
+	background-color: #FA6565;
+}
+.multicolor4 a {
+	color: #CDE301 !important;
+	background-color: #FAF565;
+}
+.multicolor5 a {
+	color: #01CB37 !important;
+	background-color: #62FD8B;
+	border-bottom-right-radius: 15px;
+	border-top-right-radius: 15px;
+}
+.multicolor0 a:hover {
+	}
+.multicolor1 a:hover {
+	background-color: #F96CFE;
+	}
+.multicolor2 a:hover {
+	background-color: #FED26C;
+	}
+.multicolor3 a:hover {
+	background-color: #FE846C;
+	}
+.multicolor4 a:hover {
+	background-color: #FEF6AA;
+	}
+.multicolor5 a:hover {
+	background-color: #AAFEBB;
+	}
+
+.champs-persos {
+	padding: 20px;
+	width: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 105px;
+	border: 2px solid #245E5E;
+	border-radius: 8px;
+}
+
+span.champs-persos-titre {
+	clear: both;
+	float: left;
+	border: none solid black;
+	text-decoration: underline;
+	margin-bottom: 10px;
+	font-weight: bold;
+	color: black;
+}
+span.champs-persos-item i {
+	font-weight: bold;
+}
+ span.champs-persos-item {
+	clear: both;
+	float: left;
+	border: none solid black;
+	font-family: italic;
+}
+
+h1.entry-title a{
+	color: #245E5E !important;
+	font-weight: bold;
+}
+
+div.entry-content {
+	color: black;
+}
